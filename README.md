@@ -1,6 +1,6 @@
-﻿# Ranger Cheatsheet
+# Ranger Cheatsheet
 
-Dejo aqui unos cuantos shortuts y comandos de Ranger que son los que encuntro mas utiles
+Aquí unos cuantos shortcuts y comandos de Ranger que son los que encuentro más útiles
 
 ## Schorcuts
 
@@ -33,9 +33,7 @@ Dejo aqui unos cuantos shortuts y comandos de Ranger que son los que encuntro ma
 | Espacio     | -               | Marcar archivos para usarlos     |
 | v           | -               | Seleccionar / Deseleccionar todo |
 
-### Copiar / Cortar / Pegar
-
-#### Copiar
+### Copiar
 
 | **Comando** | **Sub-comando** | **Funcion**                                                          |
 | ----------- | --------------- | -------------------------------------------------------------------- |
@@ -48,7 +46,7 @@ Dejo aqui unos cuantos shortuts y comandos de Ranger que son los que encuntro ma
 |             | gg              | Activar/ Desactivar el copiado sobre todos los archivos hacia arriba |
 |             | G               | Activar/ Desactivar el copiado sobre todos los archivos hacia abajo  |
 
-#### Cortar
+### Cortar
 
 | **Comando** | **Sub-comando** | **Funcion**                                                          |
 | ----------- | --------------- | -------------------------------------------------------------------- |
@@ -57,7 +55,7 @@ Dejo aqui unos cuantos shortuts y comandos de Ranger que son los que encuntro ma
 |             | gg              | Activar/ Desactivar el cortado sobre todos los archivos hacia arriba |
 |             | G               | Activar/ Desactivar el cortado sobre todos los archivos hacia abajo  |
 
-#### Pegar
+### Pegar
 
 | **Comando** | **Sub-comando** | **Funcion**             |
 | ----------- | --------------- | ----------------------- |
