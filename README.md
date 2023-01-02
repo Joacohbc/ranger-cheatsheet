@@ -19,10 +19,12 @@ Letras en mayúscula -> `Shift`+Letra
 | m + `tecla`  | -               | Crea un bookmark del directorio actual con la tecla seleccionada   |
 | um + `tecla` | -               | Borrar un bookmark que se indique con la siguiente tecla           |
 | \` + `tecla` | -               | Ir al bookmarks que se indique con la siguiente tecla              |
-| \`           | \`              | Ir al directorio anterior en que estuviste                         |
-| gg           | -               | Ir al principio                                                    |
-| G            | -               | Ir al final                                                        |
+| \`           | \`              | Ir al directorio anterior                                          |
+| gg           | -               | Ir al principio (primer archivo del directorio)                    |
+| G            | -               | Ir al final (ultimo archivo del directorio)                        |
 | g            | h               | Ir a $HOME                                                         |
+| g            | p               | Ir a /tmp (carpeta de archivos temporales)                         |
+| g            | m               | Ir a /media (donde se montan los dispositivos)                     |
 | k            | -               | Moverse hacia arriba                                               |
 | j            | -               | Moverse hacia abajo                                                |
 | h            | -               | Moverse hacia el directorio padre (hacia atras)                    |
